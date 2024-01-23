@@ -29,7 +29,7 @@ Dive into some of my favorite brainchildren:
 
 - ChildAlphabet: I have made webpage for primary school children which make them easy to learn Alphabet
 - WeatherApp: Just made a webpage of it which help you to get weather of any city by just searching on it and in few day I'll put it on internet.
-- TouchpadDoor: I is and hardware project which i have shown in college it is like password door in ehich you enter password and door get unlock. 
+- TouchpadDoor: It is a hardware project which i have shown in college it is like password door in ehich you enter password and door get unlock. 
 
 ## 🤝 Let's Connect and Conspire!
 
