@@ -11,7 +11,7 @@ Welcome to my little corner of the digital universe! I'm a Enginnering Student w
 
 In my tech toolkit, you'll find:
 
-- Coding Wizardry: Java, Full Stack WEBDEV, Pursuing Python devloping               
+- Coding Wizardry: Java, Full Stack WEBDEV              
 - Team Harmony: I am great at(ability to learn quickly, decision making, multitasking, good communication)
 
 ## 🌐 Interests
